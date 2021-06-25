@@ -11,7 +11,7 @@ export const TodoList = () => {
     {
       id: 2,
       title: 'academia',
-      done: false,
+      done: true,
     },
   ];
   return (
